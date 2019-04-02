@@ -12,7 +12,7 @@ Submitted
 
 **Description**
 
-The topic of my Playground is ‘Physics - Momentum’. The aim of this Playground is . Please use your iPad (horizontal) to run my Playground Book.
+The topic of my Playground is ‘Physics - Momentum’. The aim of this Playground is solve some of the problems a teacher may encounter, for example if a school did not have sufficient space to conduct experiments or if there were insufficient funds available to purchase equipment. This Playground would make it possible to carry out the experiment via iPad whilst making the lessons fun and interactive. Please use your iPad (horizontal) to run my Playground Book.
 
 **Images**
 
