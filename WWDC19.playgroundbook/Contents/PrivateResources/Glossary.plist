@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>vector</key>
+		<dict>
+			<key>Definition</key>
+			<string>a quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/01.playgroundpage</string>
+				<key>Title</key>
+				<string>vector</string>
+			</dict>
+		</dict>
+		<key>p</key>
+		<dict>
+			<key>Definition</key>
+			<string>&apos;p&apos; is the symbol for momentum</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/01.playgroundpage</string>
+				<key>Title</key>
+				<string>p</string>
+			</dict>
+		</dict>
+		<key>m</key>
+		<dict>
+			<key>Definition</key>
+			<string>&apos;m&apos; is the symbol for mass</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/01.playgroundpage</string>
+				<key>Title</key>
+				<string>m</string>
+			</dict>
+		</dict>
+		<key>force</key>
+		<dict>
+			<key>Definition</key>
+			<string>a force is a push or a pull, exerted by one object on another: It has direction as well as magnitude (size), so it is vector. The SI unit of force is the newton (N).</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/03.playgroundpage</string>
+				<key>Title</key>
+				<string>Force</string>
+			</dict>
+		</dict>
+		<key>momentum</key>
+		<dict>
+			<key>Definition</key>
+			<string>momentum = mass x velocity | The SI unit of momentum is kg m/s.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/01.playgroundpage</string>
+				<key>Title</key>
+				<string>Momentum</string>
+			</dict>
+		</dict>
+		<key>v</key>
+		<dict>
+			<key>Definition</key>
+			<string>&apos;v&apos; is the symbol for velocity</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/01.playgroundpage</string>
+				<key>Title</key>
+				<string>v</string>
+			</dict>
+		</dict>
+		<key>velocity</key>
+		<dict>
+			<key>Definition</key>
+			<string>the speed of something and ts direction travel | The SI unit of velocity is m/s.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/01.playgroundpage</string>
+				<key>Title</key>
+				<string>velocity</string>
+			</dict>
+		</dict>
+		<key>mass</key>
+		<dict>
+			<key>Definition</key>
+			<string>a measure of the amount of substance in an object | The SI unit of mass is kg.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/01.playgroundpage</string>
+				<key>Title</key>
+				<string>mass</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>To find the **velocity**, we need to calcuate the **total momentum** before the collision, momentum = mass x velocity = 2kg x 5m/s</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Because of **the law of conservation of momentum**, `Total` `final` `momentum` `=` `Total` `initial` `momentum`, 10kg m/s (**final**) = 10kg m/s (**inital**).</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>The total momentum of trolley B is 4kg x 1m/s = 4kg m/s. **Total momentum** = momentum of trolley A + momentum of trolley B. Therefore **Momentum of Trolley A** = total momentum - momentum of trolley B = 10kg m/s - 4kg m/s = 6kg m/s</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Because momentum = mass x velocity, we need to find the **velocity of trolley A**. `velocity` `=` `momentum` `÷` `mass` `=` `6kg` `m/s` `÷` `2kg`</string>
+		</dict>
+		<dict>
+			<key>SpoilerButtonTitle</key>
+			<string>Show Answer</string>
+			<key>Content</key>
+			<string>let velocity = 3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
